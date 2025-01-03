@@ -30,7 +30,7 @@
   },
   "engines": {
     "node": "20.x.x",
-    "npm": "10.x.x"
+    "npm": "10.9.2"
   },
   "license": "MIT"
 }
